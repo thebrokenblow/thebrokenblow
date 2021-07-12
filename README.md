@@ -7,8 +7,6 @@ Hi, I'm Artem Krasov, a developer of web and desktop applications from Russia.
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C#&logoColor=6296CC)
-![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=WPF&logoColor=6296CC)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ### Follow Me:
