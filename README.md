@@ -1,13 +1,9 @@
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-
 ![.Net](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=sqlserver&logoColor=00648B)
-
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=sql-server&logoColor=00648B)
 <br>
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
