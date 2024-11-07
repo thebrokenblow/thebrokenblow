@@ -1,12 +1,3 @@
-![Header](https://github.com/thebrokenblow/thebrokenblow/blob/main/assets/joshua-aragon-EaB4Ml7C7fE-unsplash.jpg)
-
-### Hi there 👋, I'm Artem
-
-## I'm a junior FrontEnd and C# Developer
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
